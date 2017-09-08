@@ -80,6 +80,6 @@ test:
 #
 production:
   <<: *default
-  database: fundmyproject_production
-  username: fundmyproject
-  password: <%= ENV['FUNDMYPROJECT_DATABASE_PASSWORD'] %>
+  database: dhg5nmdltu6vm
+  username: ichciqijwlimml
+  password: b9950902929bcd3d3b888459442a65b16b0dcf014eed3cdef02e9101a4f54674
